@@ -1,0 +1,16 @@
+{
+  "name": "wcApprove",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "history": "^1.17.0",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "react-mixin": "^3.0.3",
+    "react-router": "^1.0.3"
+  }
+
+}
